@@ -607,3 +607,12 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 - arxiv: <https://arxiv.org/abs/1804.00428>
 - github: <https://github.com/Hwang64/MLKP>
 
+
+
+
+# Other
+
+**Relation Network for Object Detection**
+
+- intro: CVPR 2018
+- arxiv: https://arxiv.org/abs/1711.11575
