@@ -50,16 +50,16 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 - gitxiv: <http://www.gitxiv.com/posts/8pfpcvefDYn2gSgXk/faster-r-cnn-towards-real-time-object-detection-with-region>
 - slides: <http://web.cs.hacettepe.edu.tr/~aykut/classes/spring2016/bil722/slides/w05-FasterR-CNN.pdf>
 - github(official, Matlab): <https://github.com/ShaoqingRen/faster_rcnn>
-- github: <https://github.com/rbgirshick/py-faster-rcnn>
+- github(Caffe): <https://github.com/rbgirshick/py-faster-rcnn>
 - github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/faster_rcnn>
-- github: <https://github.com//jwyang/faster-rcnn.pytorch>
+- github(PyTorch--recommend): <https://github.com//jwyang/faster-rcnn.pytorch>
 - github: <https://github.com/mitmul/chainer-faster-rcnn>
-- github: <https://github.com/andreaskoepf/faster-rcnn.torch>
-- github: <https://github.com/ruotianluo/Faster-RCNN-Densecap-torch>
-- github: <https://github.com/smallcorgi/Faster-RCNN_TF>
-- github: <https://github.com/CharlesShang/TFFRCNN>
+- github(PyTorch):: <https://github.com/andreaskoepf/faster-rcnn.torch>
+- github(PyTorch):: <https://github.com/ruotianluo/Faster-RCNN-Densecap-torch>
+- github(TensorFlow): <https://github.com/smallcorgi/Faster-RCNN_TF>
+- github(TensorFlow): <https://github.com/CharlesShang/TFFRCNN>
 - github(C++ demo): <https://github.com/YihangLou/FasterRCNN-Encapsulation-Cplusplus>
-- github: <https://github.com/yhenon/keras-frcnn>
+- github(Keras): <https://github.com/yhenon/keras-frcnn>
 - github: <https://github.com/Eniac-Xie/faster-rcnn-resnet>
 - github(C++): <https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev>
 
