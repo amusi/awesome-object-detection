@@ -96,6 +96,7 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 
 - intro: Tsinghua University & Megvii Inc
 - arxiv: <https://arxiv.org/abs/1711.07264>
+- github(offical): https://github.com/zengarden/light_head_rcnn
 - github: <https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784>
 
 ## Cascade R-CNN
