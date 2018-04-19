@@ -618,7 +618,18 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 
 
 
-# Other
+## DetNet
+
+**DetNet: A Backbone network for Object Detection**
+
+- intro: Tsinghua University & Face++
+
+
+- arxiv: https://arxiv.org/abs/1804.06215
+
+
+
+## Other
 
 **Relation Network for Object Detection**
 
