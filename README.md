@@ -248,10 +248,14 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 **YOLOv3: An Incremental Improvement**
 
 - arxiv:https://arxiv.org/abs/1804.02767
-
 - paper:https://pjreddie.com/media/files/papers/YOLOv3.pdf
 - code: <https://pjreddie.com/darknet/yolo/>
-- github:https://github.com/pjreddie/darknet
+- github(Official):https://github.com/pjreddie/darknet
+- github:https://github.com/experiencor/keras-yolo3
+- github:https://github.com/qqwweee/keras-yolo3
+- github:https://github.com/marvis/pytorch-yolo3
+- github:https://github.com/ayooshkathuria/pytorch-yolo-v3
+- github:https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 
 ## SSD
 
