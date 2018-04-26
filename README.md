@@ -465,6 +465,23 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 - arxiv: <https://arxiv.org/abs/1707.09531>
 - github: <https://github.com/sciencefans/RSA-for-object-detection>
 
+## DSOD
+
+**DSOD: Learning Deeply Supervised Object Detectors from Scratch**
+
+![img](https://user-images.githubusercontent.com/3794909/28934967-718c9302-78b5-11e7-89ee-8b514e53e23c.png)
+
+- intro: ICCV 2017. Fudan University & Tsinghua University & Intel Labs China
+- arxiv: <https://arxiv.org/abs/1708.01241>
+- github: <https://github.com/szq0214/DSOD>
+- github:https://github.com/Windaway/DSOD-Tensorflow
+- github:https://github.com/chenyuntc/dsod.pytorch
+
+**Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids**
+
+- arxiv:https://arxiv.org/abs/1712.00886
+- github:https://github.com/szq0214/GRP-DSOD
+
 ## RetinaNet
 
 **Focal Loss for Dense Object Detection**
@@ -610,6 +627,10 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 - intro: University of Tokyo & National Institute of Informatics, Japan
 - arxiv: <https://arxiv.org/abs/1803.08670>
 
+**Task-Driven Super Resolution: Object Detection in Low-resolution Images**
+
+<https://arxiv.org/abs/1803.11316>
+
 **Transferring Common-Sense Knowledge for Object Detection**
 
 <https://arxiv.org/abs/1804.01077>
@@ -621,7 +642,14 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 - github: <https://github.com/Hwang64/MLKP>
 
 
+**Loss Rank Mining: A General Hard Example Mining Method for Real-time Detectors**
 
+- intro: National University of Defense Technology
+- arxiv: <https://arxiv.org/abs/1804.04606>
+
+**Robust Physical Adversarial Attack on Faster R-CNN Object Detector**
+
+<https://arxiv.org/abs/1804.05810>
 
 ## DetNet
 
