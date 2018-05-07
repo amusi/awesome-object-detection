@@ -326,6 +326,18 @@ Awesome Object Detection based on handong1587 github（https://handong1587.githu
 
 <https://arxiv.org/abs/1802.06488>
 
+## Pelee
+
+Pelee: A Real-Time Object Detection System on Mobile Devices
+
+https://github.com/Robert-JunWang/Pelee
+
+- intro: (ICLR 2018 workshop track)
+
+
+- arxiv: https://arxiv.org/abs/1804.06882
+- github: https://github.com/Robert-JunWang/Pelee
+
 ## R-FCN
 
 **R-FCN: Object Detection via Region-based Fully Convolutional Networks**
