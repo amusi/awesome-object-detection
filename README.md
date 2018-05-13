@@ -680,3 +680,10 @@ https://github.com/Robert-JunWang/Pelee
 
 - intro: CVPR 2018
 - arxiv: https://arxiv.org/abs/1711.11575
+
+**Quantization Mimic: Towards Very Tiny CNN for Object Detection**
+
+- Tsinghua University1 & The Chinese University of Hong Kong2 &SenseTime3
+
+
+- arxiv: https://arxiv.org/abs/1805.02152
