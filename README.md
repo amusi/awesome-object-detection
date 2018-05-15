@@ -694,3 +694,8 @@ https://github.com/Robert-JunWang/Pelee
 
 
 - arxiv: https://arxiv.org/abs/1805.02152
+
+**Learning Rich Features for Image Manipulation Detection**
+
+- intro: CVPR 2018 Camera Ready
+- arxiv: https://arxiv.org/abs/1805.04953
