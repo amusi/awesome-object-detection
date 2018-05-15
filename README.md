@@ -673,6 +673,13 @@ https://github.com/Robert-JunWang/Pelee
 - arxiv: https://arxiv.org/abs/1804.06215
 
 
+## 3D Object Detection
+
+**LMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs**
+
+- arxiv: https://arxiv.org/abs/1805.04902
+- github: https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection
+
 
 ## Other
 
