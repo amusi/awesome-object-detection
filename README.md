@@ -265,8 +265,12 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 **Loss Rank Mining: A General Hard Example Mining Method for Real-time Detectors**
 
 - intro: **LRM** is the first hard example mining strategy which could fit YOLOv2 perfectly and make it better applied in series of real scenarios where both real-time rates and accurate detection are strongly demanded.
-
 - arxiv: https://arxiv.org/abs/1804.04606
+
+**Object detection at 200 Frames Per Second**
+
+- intro: faster than Tiny-Yolo-v2
+- arXiv: https://arxiv.org/abs/1805.06361
 
 ## YOLOv3
 
