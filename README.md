@@ -23,6 +23,7 @@ This is a list of awesome articles about object detection.
 * RetinaNet
 * MegDet
 * DetNet
+* ZSD
 
 Based on handong1587's github（https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html）
 
@@ -709,6 +710,20 @@ https://github.com/Robert-JunWang/Pelee
 - arxiv: https://arxiv.org/abs/1805.04902
 - github: https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection
 
+
+## ZSD
+
+**Zero-Shot Object Detection**
+
+- arxiv: https://arxiv.org/abs/1804.04340
+
+**Zero-Shot Object Detection: Learning to Simultaneously Recognize and Localize Novel Concepts**
+
+- arxiv: https://arxiv.org/abs/1803.06049
+
+**Zero-Shot Object Detection by Hybrid Region Embedding**
+
+- arxiv: https://arxiv.org/abs/1805.06157
 
 ## Other
 
