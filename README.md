@@ -17,6 +17,7 @@ This is a list of awesome articles about object detection.
 * DSSD
 * FSSD
 * ESSD
+* MDSSD
 * Pelee
 * R-FCN
 * FPN
@@ -356,9 +357,15 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 
 <https://arxiv.org/abs/1802.06488>
 
+## MDSSD
+
+**MDSSD: Multi-scale Deconvolutional Single Shot Detector for small objects**
+
+- arxiv: https://arxiv.org/abs/1805.07009
+
 ## Pelee
 
-Pelee: A Real-Time Object Detection System on Mobile Devices
+**Pelee: A Real-Time Object Detection System on Mobile Devices**
 
 https://github.com/Robert-JunWang/Pelee
 
