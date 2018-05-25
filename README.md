@@ -13,6 +13,7 @@ This is a list of awesome articles about object detection.
 * YOLO
 * YOLOv2
 * YOLOv3
+* YOLT
 * SSD
 * DSSD
 * FSSD
@@ -287,6 +288,16 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 - github:https://github.com/marvis/pytorch-yolo3
 - github:https://github.com/ayooshkathuria/pytorch-yolo-v3
 - github:https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
+
+## YOLT
+
+**You Only Look Twice: Rapid Multi-Scale Object Detection In Satellite Imagery**
+
+- intro: Small Object Detection
+
+
+- arxiv:https://arxiv.org/abs/1805.09512
+- github:https://github.com/avanetten/yolt
 
 ## SSD
 
