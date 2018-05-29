@@ -273,12 +273,18 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 **Object detection at 200 Frames Per Second**
 
 - intro: faster than Tiny-Yolo-v2
-- arXiv: https://arxiv.org/abs/1805.06361
+- arxiv: https://arxiv.org/abs/1805.06361
 
 **Event-based Convolutional Networks for Object Detection in Neuromorphic Cameras**
 
 - intro: YOLE--Object Detection in Neuromorphic Cameras
-- arXiv:https://arxiv.org/abs/1805.07931
+- arxiv:https://arxiv.org/abs/1805.07931
+
+**OmniDetector: With Neural Networks to Bounding Boxes**
+
+- intro: a person detector on n fish-eye images of indoor scenes（NIPS 2018）
+- arxiv:https://arxiv.org/abs/1805.08503
+- datasets:https://gitlab.com/omnidetector/omnidetector
 
 ## YOLOv3
 
