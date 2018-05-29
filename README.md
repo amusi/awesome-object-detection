@@ -275,6 +275,11 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 - intro: faster than Tiny-Yolo-v2
 - arXiv: https://arxiv.org/abs/1805.06361
 
+**Event-based Convolutional Networks for Object Detection in Neuromorphic Cameras**
+
+- intro: YOLE--Object Detection in Neuromorphic Cameras
+- arXiv:https://arxiv.org/abs/1805.07931
+
 ## YOLOv3
 
 **YOLOv3: An Incremental Improvement**
