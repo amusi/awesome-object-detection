@@ -26,6 +26,7 @@ This is a list of awesome articles about object detection.
 * MegDet
 * DetNet
 * ZSD
+* SSOD
 
 Based on handong1587's github（https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html）
 
@@ -754,6 +755,15 @@ https://github.com/Robert-JunWang/Pelee
 **Zero-Shot Object Detection by Hybrid Region Embedding**
 
 - arxiv: https://arxiv.org/abs/1805.06157
+
+## SSOD
+
+**Self-supervisory Signals for Object Discovery and Detection**
+
+- Google Brain
+
+
+- arxiv:https://arxiv.org/abs/1806.03370
 
 ## Other
 
