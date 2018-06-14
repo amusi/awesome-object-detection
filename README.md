@@ -756,6 +756,18 @@ https://github.com/Robert-JunWang/Pelee
 
 - arxiv: https://arxiv.org/abs/1805.06157
 
+## OSD
+
+**One-Shot Object Detection**
+
+RepMet: Representative-based metric learning for classification and one-shot object detection
+
+- intro: IBM Research AI
+
+
+- arxiv:https://arxiv.org/abs/1806.04728
+- github: TODO
+
 ## SSOD
 
 **Self-supervisory Signals for Object Discovery and Detection**
