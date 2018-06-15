@@ -1,9 +1,36 @@
-# awesome-object-detection
+# object-detection
 
 This is a list of awesome articles about object detection.
 
-* auto-gen TOC:
-{:toc}
+- R-CNN
+- Fast R-CNN
+- Faster R-CNN
+- Light-Head R-CNN
+- Cascade R-CNN
+- SPP-Net
+- YOLO
+- YOLOv2
+- YOLOv3
+- YOLT
+- SSD
+- DSSD
+- FSSD
+- ESSD
+- MDSSD
+- Pelee
+- Fire SSD
+- R-FCN
+- FPN
+- DSOD
+- RetinaNet
+- MegNet
+- DetNet
+- SSOD
+- 3D Object Detection
+- ZSD（Zero-Shot Object Detection）
+- OSD（One-Shot object Detection）
+- Other
+
 Based on handong1587's github（https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html）
 
 
@@ -664,12 +691,6 @@ https://github.com/Robert-JunWang/Pelee
 
 <https://arxiv.org/abs/1803.06799>
 
-**Zero-Shot Detection**
-
-- intro: Australian National University
-- keywords: YOLO
-- arxiv: <https://arxiv.org/abs/1803.07113>
-
 **Learning Region Features for Object Detection**
 
 - intro: Peking University & MSRA
@@ -719,6 +740,15 @@ https://github.com/Robert-JunWang/Pelee
 - arxiv: https://arxiv.org/abs/1804.06215
 
 
+## SSOD
+
+**Self-supervisory Signals for Object Discovery and Detection**
+
+- Google Brain
+
+
+- arxiv:https://arxiv.org/abs/1806.03370
+
 ## 3D Object Detection
 
 **LMNet: Real-time Multiclass Object Detection on CPU using 3D LiDARs**
@@ -728,6 +758,12 @@ https://github.com/Robert-JunWang/Pelee
 
 
 ## ZSD
+
+**Zero-Shot Detection**
+
+- intro: Australian National University
+- keywords: YOLO
+- arxiv: <https://arxiv.org/abs/1803.07113>
 
 **Zero-Shot Object Detection**
 
@@ -752,15 +788,6 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 - arxiv:https://arxiv.org/abs/1806.04728
 - github: TODO
-
-## SSOD
-
-**Self-supervisory Signals for Object Discovery and Detection**
-
-- Google Brain
-
-
-- arxiv:https://arxiv.org/abs/1806.03370
 
 ## Other
 
