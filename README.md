@@ -399,6 +399,15 @@ https://github.com/Robert-JunWang/Pelee
 - arxiv: https://arxiv.org/abs/1804.06882
 - github: https://github.com/Robert-JunWang/Pelee
 
+## Fire SSD
+
+**Fire SSD: Wide Fire Modules based Single Shot Detector on Edge Device**
+
+- intro:low cost, fast speed and high mAP on  factor edge computing devices
+
+
+- arxiv:https://arxiv.org/abs/1806.05363
+
 ## R-FCN
 
 **R-FCN: Object Detection via Region-based Fully Convolutional Networks**
