@@ -2,8 +2,8 @@
 
 This is a list of awesome articles about object detection.
 
-[TOC]
-
+* auto-gen TOC:
+{:toc}
 Based on handong1587's github（https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html）
 
 
