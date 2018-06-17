@@ -795,6 +795,7 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 - intro: CVPR 2018
 - arxiv: https://arxiv.org/abs/1711.11575
+- github:https://github.com/msracver/Relation-Networks-for-Object-Detection
 
 **Quantization Mimic: Towards Very Tiny CNN for Object Detection**
 
