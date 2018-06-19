@@ -808,3 +808,8 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 - intro: CVPR 2018 Camera Ready
 - arxiv: https://arxiv.org/abs/1805.04953
+
+**SNIPER: Efficient Multi-Scale Training**
+
+- arxiv:https://arxiv.org/abs/1805.09300
+- github:https://github.com/mahyarnajibi/SNIPER
