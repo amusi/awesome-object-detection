@@ -250,6 +250,10 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 - github(Windows): <https://github.com/AlexeyAB/darknet>
 - github: <https://github.com/choasUp/caffe-yolo9000>
 - github: <https://github.com/philipperemy/yolo-9000>
+- github(TensorFlow): <https://github.com/KOD-Chen/YOLOv2-Tensorflow>
+- github(Keras): <https://github.com/yhcc/yolo2>
+- github(Keras): <https://github.com/experiencor/keras-yolo2>
+- github(TensorFlow): <https://github.com/WojciechMormul/yolo2>
 
 **darknet_scripts**
 
