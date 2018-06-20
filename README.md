@@ -813,3 +813,10 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 - arxiv:https://arxiv.org/abs/1805.09300
 - github:https://github.com/mahyarnajibi/SNIPER
+
+**Soft Sampling for Robust Object Detection**
+
+- intro: the robustness of object detection under the presence of missing annotations
+
+
+- arxiv:https://arxiv.org/abs/1806.06986
