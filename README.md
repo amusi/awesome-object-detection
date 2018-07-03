@@ -824,3 +824,9 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 
 - arxiv:https://arxiv.org/abs/1806.06986
+
+**Cost-effective Object Detection: Active Sample Mining with Switchable Selection Criteria**
+
+- intro: TNNLS 2018
+- arxiv:https://arxiv.org/abs/1807.00147
+- code: http://kezewang.com/codes/ASM_ver1.zip
