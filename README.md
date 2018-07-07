@@ -24,6 +24,7 @@ This is a list of awesome articles about object detection.
 - DSOD
 - RetinaNet
 - MegNet
+- RefineNet
 - DetNet
 - SSOD
 - 3D Object Detection
