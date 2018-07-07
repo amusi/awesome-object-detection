@@ -614,11 +614,6 @@ https://github.com/Robert-JunWang/Pelee
 - intro: Peking University & Tsinghua University & Megvii Inc
 - arxiv: <https://arxiv.org/abs/1711.07240>
 
-**Single-Shot Refinement Neural Network for Object Detection**
-
-- arxiv: <https://arxiv.org/abs/1711.06897>
-- github: <https://github.com/sfzhang15/RefineDet>
-
 **Receptive Field Block Net for Accurate and Fast Object Detection**
 
 - intro: RFBNet
@@ -733,6 +728,18 @@ https://github.com/Robert-JunWang/Pelee
 **Robust Physical Adversarial Attack on Faster R-CNN Object Detector**
 
 <https://arxiv.org/abs/1804.05810>
+
+## RefineNet
+
+**Single-Shot Refinement Neural Network for Object Detection**
+
+- intro: CVPR 2018
+
+- arxiv: <https://arxiv.org/abs/1711.06897>
+- github: <https://github.com/sfzhang15/RefineDet>
+- github: https://github.com/lzx1413/PytorchSSD
+- github: https://github.com/ddlee96/RefineDet_mxnet
+- github: https://github.com/MTCloudVision/RefineDet-Mxnet
 
 ## DetNet
 
