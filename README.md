@@ -801,7 +801,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - arxiv:https://arxiv.org/abs/1806.04728
 - github: TODO
 
-## Other
+## 2018
+
+**MetaAnchor: Learning to Detect Objects with Customized Anchors**
+
+arxiv: https://arxiv.org/abs/1807.00980
 
 **Relation Network for Object Detection**
 
