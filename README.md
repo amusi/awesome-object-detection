@@ -803,6 +803,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2018
 
+**Toward Scale-Invariance and Position-Sensitive Region Proposal Networks**
+
+- intro: ECCV 2018
+- arXiv: https://arxiv.org/abs/1807.09528
+
 **MetaAnchor: Learning to Detect Objects with Customized Anchors**
 
 arxiv: https://arxiv.org/abs/1807.00980
