@@ -116,6 +116,7 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 - intro: Technical Report, 3 pages. CMU
 - arxiv: <https://arxiv.org/abs/1702.02138>
 - github: <https://github.com/endernewton/tf-faster-rcnn>
+- github: https://github.com/ruotianluo/pytorch-faster-rcnn
 
 **Interpretable R-CNN**
 
