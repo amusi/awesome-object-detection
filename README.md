@@ -573,6 +573,11 @@ https://github.com/Robert-JunWang/Pelee
 - arxiv:https://arxiv.org/abs/1712.00886
 - github:https://github.com/szq0214/GRP-DSOD
 
+**Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages**
+
+- intro: BMVC 2018
+- arXiv: https://arxiv.org/abs/1807.11013
+
 ## RetinaNet
 
 **Focal Loss for Dense Object Detection**
