@@ -809,6 +809,12 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2018
 
+**Acquisition of Localization Confidence for Accurate Object Detection**
+
+- intro: ECCV 2018
+- arXiv: https://arxiv.org/abs/1807.11590
+- github: https://github.com/vacancy/PreciseRoIPooling
+
 **Toward Scale-Invariance and Position-Sensitive Region Proposal Networks**
 
 - intro: ECCV 2018
