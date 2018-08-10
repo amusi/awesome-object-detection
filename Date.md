@@ -1,3 +1,12 @@
+2018-08-10
+
+**CornerNet: Detecting Objects as Paired Keypoints**
+
+- intro: ECCV 2018
+- arXiv: https://arxiv.org/abs/1808.01244
+
+
+
 2018-07-30
 
 **Acquisition of Localization Confidence for Accurate Object Detection**

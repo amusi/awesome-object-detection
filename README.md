@@ -27,6 +27,7 @@ This is a list of awesome articles about object detection.
 - RefineNet
 - DetNet
 - SSOD
+- CornerNet
 - 3D Object Detection
 - ZSD（Zero-Shot Object Detection）
 - OSD（One-Shot object Detection）
@@ -766,6 +767,16 @@ https://github.com/Robert-JunWang/Pelee
 
 
 - arxiv:https://arxiv.org/abs/1806.03370
+
+## CornerNet
+
+**CornerNet: Detecting Objects as Paired Keypoints**
+
+- intro: ECCV 2018
+- arXiv: https://arxiv.org/abs/1808.01244
+
+
+- github: <https://github.com/umich-vl/CornerNet>
 
 ## 3D Object Detection
 
