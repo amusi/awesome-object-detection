@@ -31,6 +31,7 @@ This is a list of awesome articles about object detection.
 - 3D Object Detection
 - ZSD（Zero-Shot Object Detection）
 - OSD（One-Shot object Detection）
+- 2018
 - Other
 
 Based on handong1587's github（https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html）
@@ -819,6 +820,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - github: TODO
 
 ## 2018
+
+**《Unsupervised Hard Example Mining from Videos for Improved Object Detection》**
+
+- intro: ECCV 2018
+- arXiv: https://arxiv.org/abs/1808.04285
 
 **Acquisition of Localization Confidence for Accurate Object Detection**
 
