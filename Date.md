@@ -1,3 +1,10 @@
+2018-08-17
+
+**R3-Net: A Deep Network for Multi-oriented Vehicle Detection in Aerial Images and Videos**
+
+- arxiv: https://arxiv.org/abs/1808.05560
+- youtube: https://youtu.be/xCYD-tYudN0
+
 2018-08-14
 
 **《Unsupervised Hard Example Mining from Videos for Improved Object Detection》**

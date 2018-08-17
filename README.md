@@ -876,3 +876,10 @@ arxiv: https://arxiv.org/abs/1807.00980
 - intro: TNNLS 2018
 - arxiv:https://arxiv.org/abs/1807.00147
 - code: http://kezewang.com/codes/ASM_ver1.zip
+
+## Other
+
+**R3-Net: A Deep Network for Multi-oriented Vehicle Detection in Aerial Images and Videos**
+
+- arxiv: https://arxiv.org/abs/1808.05560
+- youtube: https://youtu.be/xCYD-tYudN0
