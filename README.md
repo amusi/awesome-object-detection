@@ -34,7 +34,7 @@ This is a list of awesome articles about object detection.
 - 2018
 - Other
 
-Based on handong1587's github（https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html）
+Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
 
 
@@ -125,6 +125,11 @@ Based on handong1587's github（https://handong1587.github.io/deep_learning/2015
 - intro: North Carolina State University & Alibaba
 - keywords: AND-OR Graph (AOG)
 - arxiv: <https://arxiv.org/abs/1711.05226>
+
+**Domain Adaptive Faster R-CNN for Object Detection in the Wild**
+
+- intro: CVPR 2018. ETH Zurich & ESAT/PSI
+- arxiv: <https://arxiv.org/abs/1803.03243>
 
 ## Light-Head R-CNN
 
@@ -679,17 +684,12 @@ https://github.com/Robert-JunWang/Pelee
 
 **Object Detection with Mask-based Feature Encoding**
 
-<https://arxiv.org/abs/1802.03934>
+- arxiv: <https://arxiv.org/abs/1802.03934>
 
 **LSTD: A Low-Shot Transfer Detector for Object Detection**
 
 - intro: AAAI 2018
 - arxiv: <https://arxiv.org/abs/1803.01529>
-
-**Domain Adaptive Faster R-CNN for Object Detection in the Wild**
-
-- intro: CVPR 2018. ETH Zurich & ESAT/PSI
-- arxiv: <https://arxiv.org/abs/1803.03243>
 
 **Pseudo Mask Augmented Object Detection**
 
@@ -716,11 +716,11 @@ https://github.com/Robert-JunWang/Pelee
 
 **Task-Driven Super Resolution: Object Detection in Low-resolution Images**
 
-<https://arxiv.org/abs/1803.11316>
+- arxiv: <https://arxiv.org/abs/1803.11316>
 
 **Transferring Common-Sense Knowledge for Object Detection**
 
-<https://arxiv.org/abs/1804.01077>
+- arxiv: <https://arxiv.org/abs/1804.01077>
 
 **Multi-scale Location-aware Kernel Representation for Object Detection**
 
@@ -732,11 +732,11 @@ https://github.com/Robert-JunWang/Pelee
 **Loss Rank Mining: A General Hard Example Mining Method for Real-time Detectors**
 
 - intro: National University of Defense Technology
-- arxiv: <https://arxiv.org/abs/1804.04606>
+- arxiv: https://arxiv.org/abs/1804.04606
 
 **Robust Physical Adversarial Attack on Faster R-CNN Object Detector**
 
-<https://arxiv.org/abs/1804.05810>
+- arxiv: https://arxiv.org/abs/1804.05810
 
 ## RefineNet
 
@@ -755,8 +755,6 @@ https://github.com/Robert-JunWang/Pelee
 **DetNet: A Backbone network for Object Detection**
 
 - intro: Tsinghua University & Face++
-
-
 - arxiv: https://arxiv.org/abs/1804.06215
 
 
@@ -765,8 +763,6 @@ https://github.com/Robert-JunWang/Pelee
 **Self-supervisory Signals for Object Discovery and Detection**
 
 - Google Brain
-
-
 - arxiv:https://arxiv.org/abs/1806.03370
 
 ## CornerNet
@@ -775,8 +771,6 @@ https://github.com/Robert-JunWang/Pelee
 
 - intro: ECCV 2018
 - arXiv: https://arxiv.org/abs/1808.01244
-
-
 - github: <https://github.com/umich-vl/CornerNet>
 
 ## 3D Object Detection
@@ -814,14 +808,12 @@ https://github.com/Robert-JunWang/Pelee
 RepMet: Representative-based metric learning for classification and one-shot object detection
 
 - intro: IBM Research AI
-
-
 - arxiv:https://arxiv.org/abs/1806.04728
 - github: TODO
 
 ## 2018
 
-**《Unsupervised Hard Example Mining from Videos for Improved Object Detection》**
+**Unsupervised Hard Example Mining from Videos for Improved Object Detection**
 
 - intro: ECCV 2018
 - arXiv: https://arxiv.org/abs/1808.04285
@@ -839,7 +831,7 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 **MetaAnchor: Learning to Detect Objects with Customized Anchors**
 
-arxiv: https://arxiv.org/abs/1807.00980
+- arxiv: https://arxiv.org/abs/1807.00980
 
 **Relation Network for Object Detection**
 
@@ -850,8 +842,6 @@ arxiv: https://arxiv.org/abs/1807.00980
 **Quantization Mimic: Towards Very Tiny CNN for Object Detection**
 
 - Tsinghua University1 & The Chinese University of Hong Kong2 &SenseTime3
-
-
 - arxiv: https://arxiv.org/abs/1805.02152
 
 **Learning Rich Features for Image Manipulation Detection**
@@ -867,8 +857,6 @@ arxiv: https://arxiv.org/abs/1807.00980
 **Soft Sampling for Robust Object Detection**
 
 - intro: the robustness of object detection under the presence of missing annotations
-
-
 - arxiv:https://arxiv.org/abs/1806.06986
 
 **Cost-effective Object Detection: Active Sample Mining with Switchable Selection Criteria**
