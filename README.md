@@ -783,6 +783,10 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - arxiv: https://arxiv.org/abs/1805.04902
 - github: https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection
 
+**Frustum PointNets for 3D Object Detection from RGB-D Data (2017)**
+
+- arxiv: https://arxiv.org/abs/1711.08488
+
 ## SSOD
 
 **Self-supervisory Signals for Object Discovery and Detection**
