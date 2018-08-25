@@ -3,34 +3,35 @@
 This is a list of awesome articles about object detection.
 
 - R-CNN
-- Fast R-CNN
-- Faster R-CNN
-- Light-Head R-CNN
-- Cascade R-CNN
+    - Fast R-CNN
+    - Faster R-CNN
+    - Light-Head R-CNN
+    - Cascade R-CNN
 - SPP-Net
 - YOLO
-- YOLOv2
-- YOLOv3
-- YOLT
+    - YOLOv2
+    - YOLOv3
+    - YOLT
 - SSD
-- DSSD
-- FSSD
-- ESSD
-- MDSSD
-- Pelee
-- Fire SSD
+    - DSSD
+    - MDSSD
+    - FSSD
+    - ESSD
+    - Fire SSD
+    - DSOD
+    - Pelee
+    - RefineDet
 - R-FCN
 - FPN
-- DSOD
 - RetinaNet
-- MegNet
-- RefineNet
+- MegDet
 - DetNet
 - SSOD
 - CornerNet
 - 3D Object Detection
 - ZSD（Zero-Shot Object Detection）
-- OSD（One-Shot object Detection）
+- OSD（One-Shot Object Detection）
+- FSD (Few-Shot Object Detection)
 - 2018
 - Other
 
@@ -76,6 +77,11 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - paper: <http://abhinavsh.info/papers/pdfs/adversarial_object_detection.pdf>
 - github(Caffe): <https://github.com/xiaolonw/adversarial-frcnn>
 
+**Inside-Outside Net: Detecting Objects in Context with Skip Pooling and Recurrent Neural Networks**
+
+- intro: CVPR 16
+- arxiv: https://arxiv.org/abs/1512.04143
+
 ## Faster R-CNN
 
 **Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks**
@@ -98,14 +104,15 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github: <https://github.com/Eniac-Xie/faster-rcnn-resnet>
 - github(C++): <https://github.com/D-X-Y/caffe-faster-rcnn/tree/dev>
 
+**Faster R-CNN in MXNet with distributed implementation and data parallelization**
+
+- github: <https://github.com/dmlc/mxnet/tree/master/example/rcnn>
+
 **R-CNN minus R**
 
 - intro: BMVC 2015
 - arxiv: <http://arxiv.org/abs/1506.06981>
 
-**Faster R-CNN in MXNet with distributed implementation and data parallelization**
-
-- github: <https://github.com/dmlc/mxnet/tree/master/example/rcnn>
 
 **Contextual Priming and Feedback for Faster R-CNN**
 
@@ -131,8 +138,6 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - intro: CVPR 2018. ETH Zurich & ESAT/PSI
 - arxiv: <https://arxiv.org/abs/1803.03243>
 
-## Light-Head R-CNN
-
 **Light-Head R-CNN: In Defense of Two-Stage Object Detector**
 
 - intro: Tsinghua University & Megvii Inc
@@ -140,12 +145,21 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github(offical): https://github.com/zengarden/light_head_rcnn
 - github: <https://github.com/terrychenism/Deformable-ConvNets/blob/master/rfcn/symbols/resnet_v1_101_rfcn_light.py#L784>
 
-## Cascade R-CNN
-
 **Cascade R-CNN: Delving into High Quality Object Detection**
 
 - arxiv: <https://arxiv.org/abs/1712.00726>
 - github: <https://github.com/zhaoweicai/cascade-rcnn>
+
+**SNIPER: Efficient Multi-Scale Training**
+
+- arxiv:https://arxiv.org/abs/1805.09300
+- github:https://github.com/mahyarnajibi/SNIPER (mxnet)
+
+**Illuminating Pedestrians via Simultaneous Detection & Segmentation**
+
+- intro: ICCV 17, Pedestrian detection framework using simultaneous detection and segmentation
+- arxiv: https://arxiv.org/abs/1706.08564
+- github: https://github.com/garrickbrazil/SDS-RCNN
 
 ## SPP-Net
 
@@ -196,7 +210,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - arxiv: <http://arxiv.org/abs/1505.02146>
 - github: <https://github.com/weichengkuo/DeepBox>
 
-## YOLO
+## YOLO (based)
 
 **You Only Look Once: Unified, Real-Time Object Detection**
 
@@ -328,7 +342,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - arxiv:https://arxiv.org/abs/1805.09512
 - github:https://github.com/avanetten/yolt
 
-## SSD
+## SSD Based
 
 **SSD: Single Shot MultiBox Detector**
 
@@ -338,7 +352,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - arxiv: <http://arxiv.org/abs/1512.02325>
 - paper: <http://www.cs.unc.edu/~wliu/papers/ssd.pdf>
 - slides: [http://www.cs.unc.edu/%7Ewliu/papers/ssd_eccv2016_slide.pdf](http://www.cs.unc.edu/~wliu/papers/ssd_eccv2016_slide.pdf)
-- github(Official): <https://github.com/weiliu89/caffe/tree/ssd>
+- github(Official): <https://github.com/weiliu89/caffe/tree/ssd> [imp changes for 5% boost in acc](https://github.com/weiliu89/caffe/issues/327)
 - video: <http://weibo.com/p/2304447a2326da963254c963c97fb05dd3a973>
 - github: <https://github.com/zhreshold/mxnet-ssd>
 - github: <https://github.com/zhreshold/mxnet-ssd.cpp>
@@ -347,11 +361,16 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github: <https://github.com/amdegroot/ssd.pytorch>
 - github(Caffe): <https://github.com/chuanqi305/MobileNet-SSD>
 
-**What's the diffience in performance between this new code you pushed and the previous code? #327**
+**Pooling Pyramid Network for Object Detection**
 
-<https://github.com/weiliu89/caffe/issues/327>
+- intro: Google AI Perception
+- arxiv: https://arxiv.org/abs/1807.03284
 
-## DSSD
+**SSH: Single Stage Headless Face Detector**
+
+- intro: ICCV 2017
+- arxiv: https://arxiv.org/abs/1708.03979
+- github: https://github.com/mahyarnajibi/SSH (caffe)
 
 **DSSD : Deconvolutional Single Shot Detector**
 
@@ -360,6 +379,10 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github: <https://github.com/chengyangfu/caffe/tree/dssd>
 - github: <https://github.com/MTCloudVision/mxnet-dssd>
 - demo: <http://120.52.72.53/www.cs.unc.edu/c3pr90ntc0td/~cyfu/dssd_lalaland.mp4>
+
+**MDSSD: Multi-scale Deconvolutional Single Shot Detector for small objects**
+
+- arxiv: https://arxiv.org/abs/1805.07009
 
 **Enhancement of SSD by concatenating feature maps for object detection**
 
@@ -373,13 +396,11 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 
 **Feature-Fused SSD: Fast Detection for Small Objects**
 
-<https://arxiv.org/abs/1709.05054>
-
-## FSSD
+- arxiv: <https://arxiv.org/abs/1709.05054>
 
 **FSSD: Feature Fusion Single Shot Multibox Detector**
 
-<https://arxiv.org/abs/1712.00960>
+- arxiv: <https://arxiv.org/abs/1712.00960>
 
 **Weaving Multi-scale Context for Single Shot Detector**
 
@@ -387,47 +408,84 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - keywords: fuse multi-scale information
 - arxiv: <https://arxiv.org/abs/1712.03149>
 
-## ESSD
-
 **Extend the shallow part of Single Shot MultiBox Detector via Convolutional Neural Network**
 
-<https://arxiv.org/abs/1801.05918>
+- arxiv: <https://arxiv.org/abs/1801.05918>
 
 **Tiny SSD: A Tiny Single-shot Detection Deep Convolutional Neural Network for Real-time Embedded Object Detection**
 
-<https://arxiv.org/abs/1802.06488>
+- arxiv: <https://arxiv.org/abs/1802.06488>
 
-## MDSSD
+**Single-Shot Refinement Neural Network for Object Detection**
 
-**MDSSD: Multi-scale Deconvolutional Single Shot Detector for small objects**
+- intro: CVPR 2018
+- arxiv: <https://arxiv.org/abs/1711.06897>
+- github: <https://github.com/sfzhang15/RefineDet>
+- github: https://github.com/lzx1413/PytorchSSD
+- github: https://github.com/ddlee96/RefineDet_mxnet
+- github: https://github.com/MTCloudVision/RefineDet-Mxnet
 
-- arxiv: https://arxiv.org/abs/1805.07009
+**Fire SSD: Wide Fire Modules based Single Shot Detector on Edge Device**
+
+- intro:low cost, fast speed and high mAP on  factor edge computing devices
+- arxiv:https://arxiv.org/abs/1806.05363
+
+**Learning a Rotation Invariant Detector with Rotatable Bounding Box**
+
+- arxiv: <https://arxiv.org/abs/1711.09405>
+- github: <https://github.com/liulei01/DRBox>
+
+**Residual Features and Unified Prediction Network for Single Stage Detection**
+
+- arxiv: <https://arxiv.org/abs/1707.05031>
+
+**DSOD: Learning Deeply Supervised Object Detectors from Scratch**
+
+![img](https://user-images.githubusercontent.com/3794909/28934967-718c9302-78b5-11e7-89ee-8b514e53e23c.png)
+
+- intro: ICCV 2017. Fudan University & Tsinghua University & Intel Labs China
+- arxiv: <https://arxiv.org/abs/1708.01241>
+- github: <https://github.com/szq0214/DSOD>
+- github:https://github.com/Windaway/DSOD-Tensorflow
+- github:https://github.com/chenyuntc/dsod.pytorch
+
+**Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages**
+
+- intro: BMVC 2018
+- arXiv: https://arxiv.org/abs/1807.11013
+
+**Accurate Single Stage Detector Using Recurrent Rolling Convolution**
+
+- intro: CVPR 2017. SenseTime
+- keywords: Recurrent Rolling Convolution (RRC)
+- arxiv: <https://arxiv.org/abs/1704.05776>
+- github: <https://github.com/xiaohaoChen/rrc_detection>
+
+**BlitzNet: A Real-Time Deep Network for Scene Understanding (2017)**
+
+- intro: ICCV 2017,INRIA
+- intro: Combined object detection and segmentation using SSD backend.
+- arxiv: https://arxiv.org/abs/1708.02813
+- github: https://github.com/dvornikita/blitznet
+
+**Dual Refinement Network for Single-Shot Object Detection**
+
+- github: https://arxiv.org/abs/1807.08638
 
 ## Pelee
 
 **Pelee: A Real-Time Object Detection System on Mobile Devices**
 
-https://github.com/Robert-JunWang/Pelee
-
 - intro: (ICLR 2018 workshop track)
-
-
 - arxiv: https://arxiv.org/abs/1804.06882
 - github: https://github.com/Robert-JunWang/Pelee
 
-## Fire SSD
 
-**Fire SSD: Wide Fire Modules based Single Shot Detector on Edge Device**
-
-- intro:low cost, fast speed and high mAP on  factor edge computing devices
-
-
-- arxiv:https://arxiv.org/abs/1806.05363
-
-## R-FCN
+## R-FCN (based)
 
 **R-FCN: Object Detection via Region-based Fully Convolutional Networks**
 
+- intro: NIPS 2016
 - arxiv: <http://arxiv.org/abs/1605.06409>
 - github: <https://github.com/daijifeng001/R-FCN>
 - github(MXNet): <https://github.com/msracver/Deformable-ConvNets/tree/master/rfcn>
@@ -436,9 +494,22 @@ https://github.com/Robert-JunWang/Pelee
 - github: <https://github.com/bharatsingh430/py-R-FCN-multiGPU>
 - github: <https://github.com/xdever/RFCN-tensorflow>
 
+**Deformable Convolutional Networks**
+
+- intro: ICCV 2017 Oral
+- arxiv: https://arxiv.org/abs/1703.06211
+- github: https://github.com/msracver/Deformable-ConvNets (mxnet)
+
+**An Analysis of Scale Invariance in Object Detection - SNIP**
+
+- arxiv: <https://arxiv.org/abs/1711.08189>
+- github: <https://github.com/bharatsingh430/snip>
+
 **R-FCN-3000 at 30fps: Decoupling Detection and Classification**
 
-<https://arxiv.org/abs/1712.01802>
+- intro: CVPR 2018, large scale fully conv. detector
+- arxiv: <https://arxiv.org/abs/1712.01802>
+- github: https://github.com/mahyarnajibi/SNIPER/tree/cvpr3k (mxnet)
 
 **Recycle deep features for better object detection**
 
@@ -490,13 +561,6 @@ https://github.com/Robert-JunWang/Pelee
 
 - arxiv: <https://arxiv.org/abs/1704.04224>
 
-**Accurate Single Stage Detector Using Recurrent Rolling Convolution**
-
-- intro: CVPR 2017. SenseTime
-- keywords: Recurrent Rolling Convolution (RRC)
-- arxiv: <https://arxiv.org/abs/1704.05776>
-- github: <https://github.com/xiaohaoChen/rrc_detection>
-
 **Deep Occlusion Reasoning for Multi-Camera Multi-Target Detection**
 
 <https://arxiv.org/abs/1704.05775>
@@ -514,10 +578,6 @@ https://github.com/Robert-JunWang/Pelee
 **Perceptual Generative Adversarial Networks for Small Object Detection**
 
 <https://arxiv.org/abs/1706.05274>
-
-**Few-shot Object Detection**
-
-<https://arxiv.org/abs/1706.08249>
 
 **Yes-Net: An effective Detector Based on Global Information**
 
@@ -542,10 +602,6 @@ https://github.com/Robert-JunWang/Pelee
 - intro: CVPR 2017. SenseTime & Beihang University
 - paper: <http://openaccess.thecvf.com/content_cvpr_2017/papers/Li_Mimicking_Very_Efficient_CVPR_2017_paper.pdf>
 
-**Residual Features and Unified Prediction Network for Single Stage Detection**
-
-<https://arxiv.org/abs/1707.05031>
-
 **Deformable Part-based Fully Convolutional Network for Object Detection**
 
 - intro: BMVC 2017 (oral). Sorbonne Universités & CEDRIC
@@ -563,27 +619,11 @@ https://github.com/Robert-JunWang/Pelee
 - arxiv: <https://arxiv.org/abs/1707.09531>
 - github: <https://github.com/sciencefans/RSA-for-object-detection>
 
-## DSOD
-
-**DSOD: Learning Deeply Supervised Object Detectors from Scratch**
-
-![img](https://user-images.githubusercontent.com/3794909/28934967-718c9302-78b5-11e7-89ee-8b514e53e23c.png)
-
-- intro: ICCV 2017. Fudan University & Tsinghua University & Intel Labs China
-- arxiv: <https://arxiv.org/abs/1708.01241>
-- github: <https://github.com/szq0214/DSOD>
-- github:https://github.com/Windaway/DSOD-Tensorflow
-- github:https://github.com/chenyuntc/dsod.pytorch
-
 **Learning Object Detectors from Scratch with Gated Recurrent Feature Pyramids**
 
 - arxiv:https://arxiv.org/abs/1712.00886
 - github:https://github.com/szq0214/GRP-DSOD
 
-**Tiny-DSOD: Lightweight Object Detection for Resource-Restricted Usages**
-
-- intro: BMVC 2018
-- arXiv: https://arxiv.org/abs/1807.11013
 
 ## RetinaNet
 
@@ -634,19 +674,9 @@ https://github.com/Robert-JunWang/Pelee
 - arxiv: <https://arxiv.org/abs/1711.07767>
 - github: <https://github.com//ruinmessi/RFBNet>
 
-**An Analysis of Scale Invariance in Object Detection - SNIP**
-
-- arxiv: <https://arxiv.org/abs/1711.08189>
-- github: <https://github.com/bharatsingh430/snip>
-
 **Feature Selective Networks for Object Detection**
 
-<https://arxiv.org/abs/1711.08879>
-
-**Learning a Rotation Invariant Detector with Rotatable Bounding Box**
-
-- arxiv: <https://arxiv.org/abs/1711.09405>
-- github: <https://github.com/liulei01/DRBox>
+- arxiv: <https://arxiv.org/abs/1711.08879>
 
 **Scalable Object Detection for Stylized Objects**
 
@@ -686,18 +716,10 @@ https://github.com/Robert-JunWang/Pelee
 
 - arxiv: <https://arxiv.org/abs/1802.03934>
 
-**LSTD: A Low-Shot Transfer Detector for Object Detection**
-
-- intro: AAAI 2018
-- arxiv: <https://arxiv.org/abs/1803.01529>
-
 **Pseudo Mask Augmented Object Detection**
 
 <https://arxiv.org/abs/1803.05858>
 
-**Revisiting RCNN: On Awakening the Classification Power of Faster RCNN**
-
-<https://arxiv.org/abs/1803.06799>
 
 **Learning Region Features for Object Detection**
 
@@ -738,40 +760,21 @@ https://github.com/Robert-JunWang/Pelee
 
 - arxiv: https://arxiv.org/abs/1804.05810
 
-## RefineNet
-
-**Single-Shot Refinement Neural Network for Object Detection**
-
-- intro: CVPR 2018
-
-- arxiv: <https://arxiv.org/abs/1711.06897>
-- github: <https://github.com/sfzhang15/RefineDet>
-- github: https://github.com/lzx1413/PytorchSSD
-- github: https://github.com/ddlee96/RefineDet_mxnet
-- github: https://github.com/MTCloudVision/RefineDet-Mxnet
-
-## DetNet
-
 **DetNet: A Backbone network for Object Detection**
 
 - intro: Tsinghua University & Face++
 - arxiv: https://arxiv.org/abs/1804.06215
-
-
-## SSOD
-
-**Self-supervisory Signals for Object Discovery and Detection**
-
-- Google Brain
-- arxiv:https://arxiv.org/abs/1806.03370
-
-## CornerNet
 
 **CornerNet: Detecting Objects as Paired Keypoints**
 
 - intro: ECCV 2018
 - arXiv: https://arxiv.org/abs/1808.01244
 - github: <https://github.com/umich-vl/CornerNet>
+
+**Speed/Accuracy Trade-Offs for Modern Convolutional Object Detectors**
+
+- intro: CVPR 2017
+- arxiv: https://arxiv.org/abs/1611.10012
 
 ## 3D Object Detection
 
@@ -780,6 +783,12 @@ https://github.com/Robert-JunWang/Pelee
 - arxiv: https://arxiv.org/abs/1805.04902
 - github: https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection
 
+## SSOD
+
+**Self-supervisory Signals for Object Discovery and Detection**
+
+- intro: Google Brain
+- arxiv: https://arxiv.org/abs/1806.03370
 
 ## ZSD
 
@@ -808,8 +817,45 @@ https://github.com/Robert-JunWang/Pelee
 RepMet: Representative-based metric learning for classification and one-shot object detection
 
 - intro: IBM Research AI
-- arxiv:https://arxiv.org/abs/1806.04728
+- arxiv: https://arxiv.org/abs/1806.04728
 - github: TODO
+
+## FSD
+
+**Few-shot Object Detection**
+
+- arxiv: <https://arxiv.org/abs/1706.08249>
+
+**LSTD: A Low-Shot Transfer Detector for Object Detection**
+
+- intro: AAAI 2018
+- arxiv: <https://arxiv.org/abs/1803.01529>
+
+## Non-Maximum Suppression (NMS)
+
+**End-to-End Integration of a Convolutional Network, Deformable Parts Model and Non-Maximum Suppression**
+
+- intro: CVPR 2015
+- arxiv: [http://arxiv.org/abs/1411.5309](http://arxiv.org/abs/1411.5309)
+- paper: [http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf](http://www.cv-foundation.org/openaccess/content_cvpr_2015/papers/Wan_End-to-End_Integration_of_2015_CVPR_paper.pdf)
+
+**A convnet for non-maximum suppression**
+
+- arxiv: [http://arxiv.org/abs/1511.06437](http://arxiv.org/abs/1511.06437)
+
+**Soft-NMS -- Improving Object Detection With One Line of Code**
+
+- intro: ICCV 2017. University of Maryland
+- keywords: Soft-NMS
+- arxiv: [https://arxiv.org/abs/1704.04503](https://arxiv.org/abs/1704.04503)
+- github: [https://github.com/bharatsingh430/soft-nms](https://github.com/bharatsingh430/soft-nms)
+
+**Learning non-maximum suppression**
+
+- intro: CVPR 2017
+- project page: [https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/learning-nms/](https://www.mpi-inf.mpg.de/departments/computer-vision-and-multimodal-computing/research/object-recognition-and-scene-understanding/learning-nms/)
+- arxiv: [https://arxiv.org/abs/1705.02950](https://arxiv.org/abs/1705.02950)
+- github: [https://github.com/hosang/gossipnet](https://github.com/hosang/gossipnet)
 
 ## 2018
 
@@ -849,11 +895,6 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - intro: CVPR 2018 Camera Ready
 - arxiv: https://arxiv.org/abs/1805.04953
 
-**SNIPER: Efficient Multi-Scale Training**
-
-- arxiv:https://arxiv.org/abs/1805.09300
-- github:https://github.com/mahyarnajibi/SNIPER
-
 **Soft Sampling for Robust Object Detection**
 
 - intro: the robustness of object detection under the presence of missing annotations
@@ -864,6 +905,12 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - intro: TNNLS 2018
 - arxiv:https://arxiv.org/abs/1807.00147
 - code: http://kezewang.com/codes/ASM_ver1.zip
+
+**Modeling Visual Context is Key to Augmenting Object Detection Datasets**
+
+- intro: ECCV 2018
+- arxiv: https://arxiv.org/abs/1807.07428
+
 
 ## Other
 
