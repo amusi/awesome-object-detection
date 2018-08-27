@@ -813,6 +813,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2018
 
+**Deep Feature Pyramid Reconfiguration for Object Detection**
+
+- intro: ECCV 2018
+- arXiv: https://arxiv.org/abs/1808.07993
+
 **Unsupervised Hard Example Mining from Videos for Improved Object Detection**
 
 - intro: ECCV 2018

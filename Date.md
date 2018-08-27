@@ -1,3 +1,10 @@
+2018-08-27
+
+**Deep Feature Pyramid Reconfiguration for Object Detection**
+
+- intro: ECCV 2018
+- arXiv: https://arxiv.org/abs/1808.07993
+
 2018-08-17
 
 **R3-Net: A Deep Network for Multi-oriented Vehicle Detection in Aerial Images and Videos**
