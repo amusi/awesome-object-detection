@@ -1,3 +1,10 @@
+2018-09-10
+
+**《Deep Learning for Generic Object Detection: A Survey》**
+
+- intro: Submitted to IJCV 2018
+- arXiv: https://arxiv.org/abs/1809.02165
+
 2018-08-27
 
 **Deep Feature Pyramid Reconfiguration for Object Detection**

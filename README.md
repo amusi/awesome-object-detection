@@ -36,7 +36,12 @@ This is a list of awesome articles about object detection.
 
 Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
 
+# Survey
 
+**《Deep Learning for Generic Object Detection: A Survey》**
+
+- intro: Submitted to IJCV 2018
+- arXiv: https://arxiv.org/abs/1809.02165
 
 # Papers&Codes
 
