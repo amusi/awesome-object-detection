@@ -38,6 +38,13 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 
 # Survey
 
+**《Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks》**
+
+- intro: awesome
+
+
+- arXiv: https://arxiv.org/abs/1809.03193
+
 **《Deep Learning for Generic Object Detection: A Survey》**
 
 - intro: Submitted to IJCV 2018

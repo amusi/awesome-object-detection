@@ -1,3 +1,12 @@
+2018-09-11
+
+**《Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks》**
+
+- intro: awesome
+
+
+- arXiv: https://arxiv.org/abs/1809.03193
+
 2018-09-10
 
 **《Deep Learning for Generic Object Detection: A Survey》**
