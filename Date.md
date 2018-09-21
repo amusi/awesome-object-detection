@@ -1,3 +1,11 @@
+2018-09-21
+
+**《Receptive Field Block Net for Accurate and Fast Object Detection》**
+
+- intro: ECCV 2018
+- arXiv: [https://arxiv.org/abs/1711.07767](https://arxiv.org/abs/1711.07767)
+- github: [https://github.com/ruinmessi/RFBNet](https://github.com/ruinmessi/RFBNet)
+
 2018-09-11
 
 **《Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks》**

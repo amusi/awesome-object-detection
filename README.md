@@ -825,6 +825,12 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2018
 
+**《Receptive Field Block Net for Accurate and Fast Object Detection》**
+
+- intro: ECCV 2018
+- arXiv: [https://arxiv.org/abs/1711.07767](https://arxiv.org/abs/1711.07767)
+- github: [https://github.com/ruinmessi/RFBNet](https://github.com/ruinmessi/RFBNet)
+
 **Deep Feature Pyramid Reconfiguration for Object Detection**
 
 - intro: ECCV 2018
