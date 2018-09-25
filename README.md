@@ -31,6 +31,7 @@ This is a list of awesome articles about object detection.
 - 3D Object Detection
 - ZSD（Zero-Shot Object Detection）
 - OSD（One-Shot object Detection）
+- Softer-NMS
 - 2018
 - Other
 
@@ -822,6 +823,14 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - intro: IBM Research AI
 - arxiv:https://arxiv.org/abs/1806.04728
 - github: TODO
+
+## Softer-NMS
+
+**《Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection》**
+
+- intro: CMU & Face++
+- arXiv: https://arxiv.org/abs/1809.08545
+- github: https://github.com/yihui-he/softer-NMS
 
 ## 2018
 

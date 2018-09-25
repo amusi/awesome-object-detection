@@ -1,3 +1,11 @@
+2018-09-25
+
+**《Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection》**
+
+- intro: CMU & Face++
+- arXiv: https://arxiv.org/abs/1809.08545
+- github: https://github.com/yihui-he/softer-NMS
+
 2018-09-21
 
 **《Receptive Field Block Net for Accurate and Fast Object Detection》**
