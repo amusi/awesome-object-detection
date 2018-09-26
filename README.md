@@ -598,6 +598,11 @@ https://github.com/Robert-JunWang/Pelee
 - intro: BMVC 2018
 - arXiv: https://arxiv.org/abs/1807.11013
 
+**Object Detection from Scratch with Deep Supervision**
+
+- intro: This is an extended version of DSOD
+- arXiv: https://arxiv.org/abs/1809.09294
+
 ## RetinaNet
 
 **Focal Loss for Dense Object Detection**

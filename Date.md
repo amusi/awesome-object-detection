@@ -1,3 +1,10 @@
+2018-09-26
+
+**Object Detection from Scratch with Deep Supervision**
+
+- intro: This is an extended version of DSOD
+- arXiv: https://arxiv.org/abs/1809.09294
+
 2018-09-25
 
 **《Softer-NMS: Rethinking Bounding Box Regression for Accurate Object Detection》**
