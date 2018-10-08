@@ -1,3 +1,19 @@
+2018-10-08
+
+**Weakly Supervised Object Detection in Artworks**
+
+- intro: ECCV 2018 Workshop Computer Vision for Art Analysis
+- arXiv: https://arxiv.org/abs/1810.02569
+- Datasets: https://wsoda.telecom-paristech.fr/downloads/dataset/IconArt_v1.zip
+
+**Cross-Domain Weakly-Supervised Object Detection through Progressive Domain Adaptation**
+
+- intro: CVPR 2018
+- arXiv: https://arxiv.org/abs/1803.11365
+- homepage: https://naoto0804.github.io/cross_domain_detection/
+- paper: http://openaccess.thecvf.com/content_cvpr_2018/html/Inoue_Cross-Domain_Weakly-Supervised_Object_CVPR_2018_paper.html
+- github: https://github.com/naoto0804/cross-domain-detection
+
 2018-09-26
 
 **Object Detection from Scratch with Deep Supervision**
