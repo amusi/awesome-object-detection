@@ -331,6 +331,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github:https://github.com/ayooshkathuria/pytorch-yolo-v3
 - github:https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 - github:https://github.com/eriklindernoren/PyTorch-YOLOv3
+- github:https://github.com/ultralytics/yolov3
 
 ## YOLT
 
