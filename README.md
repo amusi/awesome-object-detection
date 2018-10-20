@@ -5,6 +5,7 @@ This is a list of awesome articles about object detection.
 - R-CNN
 - Fast R-CNN
 - Faster R-CNN
+- Mask R-CNN
 - Light-Head R-CNN
 - Cascade R-CNN
 - SPP-Net
@@ -144,6 +145,11 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 
 - intro: CVPR 2018. ETH Zurich & ESAT/PSI
 - arxiv: <https://arxiv.org/abs/1803.03243>
+
+## Mask R-CNN
+
+- arxiv: <http://arxiv.org/abs/1703.06870>
+- github(Pytorch): <https://github.com/wannabeOG/Mask-RCNN>
 
 ## Light-Head R-CNN
 
