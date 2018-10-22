@@ -24,7 +24,7 @@ This is a list of awesome articles about object detection.
 - FPN
 - DSOD
 - RetinaNet
-- MegNet
+- MegDet
 - RefineNet
 - DetNet
 - SSOD
