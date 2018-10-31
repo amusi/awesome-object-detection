@@ -1,3 +1,11 @@
+2018-10-31
+
+**Hybrid Knowledge Routed Modules for Large-scale Object Detection**
+
+- intro: Sun Yat-Sen University & Huawei Noah’s Ark Lab
+- arXiv: https://arxiv.org/abs/1810.12681
+- github: https://github.com/chanyn/HKRM
+
 2018-10-08
 
 **Weakly Supervised Object Detection in Artworks**

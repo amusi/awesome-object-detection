@@ -867,6 +867,12 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2018
 
+**Hybrid Knowledge Routed Modules for Large-scale Object Detection**
+
+- intro: Sun Yat-Sen University & Huawei Noah’s Ark Lab
+- arXiv: https://arxiv.org/abs/1810.12681
+- github: https://github.com/chanyn/HKRM
+
 **《Receptive Field Block Net for Accurate and Fast Object Detection》**
 
 - intro: ECCV 2018
