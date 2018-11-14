@@ -29,6 +29,7 @@ This is a list of awesome articles about object detection.
 - DetNet
 - SSOD
 - CornerNet
+- M2Det
 - 3D Object Detection
 - ZSD（Zero-Shot Object Detection）
 - OSD（One-Shot object Detection）
@@ -802,6 +803,14 @@ https://github.com/Robert-JunWang/Pelee
 - intro: ECCV 2018
 - arXiv: https://arxiv.org/abs/1808.01244
 - github: <https://github.com/umich-vl/CornerNet>
+
+## M2Det
+
+**M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network**
+
+- intro: AAAI 2019
+- arXiv: https://arxiv.org/abs/1811.04533
+- github: https://github.com/qijiezhao/M2Det
 
 ## 3D Object Detection
 

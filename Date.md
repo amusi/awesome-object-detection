@@ -1,3 +1,11 @@
+2018-11-14
+
+**M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network**
+
+- intro: AAAI 2019
+- arXiv: https://arxiv.org/abs/1811.04533
+- github: https://github.com/qijiezhao/M2Det
+
 2018-10-31
 
 **Hybrid Knowledge Routed Modules for Large-scale Object Detection**
