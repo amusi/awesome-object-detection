@@ -1,3 +1,11 @@
+2018-11-19
+
+**DeRPN: Taking a further step toward more general object detection**
+
+- intro: AAAI 2019
+- arXiv: https://arxiv.org/abs/1811.06700
+- github: https://github.com/HCIILAB/DeRPN
+
 2018-11-14
 
 **M2Det: A Single-Shot Object Detector based on Multi-Level Feature Pyramid Network**

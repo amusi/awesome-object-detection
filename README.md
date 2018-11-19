@@ -1,5 +1,7 @@
 # object-detection
 
+[TOC]
+
 This is a list of awesome articles about object detection.
 
 - R-CNN
@@ -875,6 +877,12 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - github: https://github.com/yihui-he/softer-NMS
 
 ## 2018
+
+**DeRPN: Taking a further step toward more general object detection**
+
+- intro: AAAI 2019
+- arXiv: https://arxiv.org/abs/1811.06700
+- github: https://github.com/HCIILAB/DeRPN
 
 **Hybrid Knowledge Routed Modules for Large-scale Object Detection**
 
