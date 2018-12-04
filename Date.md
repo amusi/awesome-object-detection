@@ -1,3 +1,52 @@
+2018-12-04 Update 10 papers
+
+**Grid R-CNN**
+
+- intro: SenseTime
+- arXiv: https://arxiv.org/abs/1811.12030
+
+**Deformable ConvNets v2: More Deformable, Better Results**
+
+- intro: Microsoft Research Asia
+
+- arXiv: https://arxiv.org/abs/1811.11168
+
+**Anchor Box Optimization for Object Detection**
+
+- intro: Microsoft Research
+- arXiv: https://arxiv.org/abs/1812.00469
+
+**Efficient Coarse-to-Fine Non-Local Module for the Detection of Small Objects**
+
+- intro: https://arxiv.org/abs/1811.12152
+
+**NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection**
+
+- arXiv: https://arxiv.org/abs/1812.00124
+
+**Learning RoI Transformer for Detecting Oriented Objects in Aerial Images**
+
+- arXiv: https://arxiv.org/abs/1812.00155
+
+**Integrated Object Detection and Tracking with Tracklet-Conditioned Detection**
+
+- intro: Microsoft Research Asia
+- arXiv: https://arxiv.org/abs/1811.11167
+
+**Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection**
+
+- arXiv: https://arxiv.org/abs/1811.11318
+
+ **Gradient Harmonized Single-stage Detector**
+
+- intro: AAAI 2019
+- arXiv: https://arxiv.org/abs/1811.05181
+
+**CFENet: Object Detection with Comprehensive Feature Enhancement Module**
+
+- intro: ACCV 2018
+- github: https://github.com/qijiezhao/CFENet
+
 2018-11-19
 
 **DeRPN: Taking a further step toward more general object detection**
@@ -104,8 +153,6 @@
 
 - intro: ECCV 2018
 - arXiv: https://arxiv.org/abs/1808.01244
-
-
 
 2018-07-30
 

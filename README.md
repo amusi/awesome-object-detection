@@ -2,7 +2,7 @@
 
 [TOC]
 
-This is a list of awesome articles about object detection.
+This is a list of awesome articles about object detection. If you want to read the paper according to time, you can refer to [Date](Date.md).
 
 - R-CNN
 - Fast R-CNN
@@ -877,6 +877,53 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - github: https://github.com/yihui-he/softer-NMS
 
 ## 2018
+
+**Grid R-CNN**
+
+- intro: SenseTime
+- arXiv: https://arxiv.org/abs/1811.12030
+
+**Deformable ConvNets v2: More Deformable, Better Results**
+
+- intro: Microsoft Research Asia
+
+- arXiv: https://arxiv.org/abs/1811.11168
+
+**Anchor Box Optimization for Object Detection**
+
+- intro: Microsoft Research
+- arXiv: https://arxiv.org/abs/1812.00469
+
+**Efficient Coarse-to-Fine Non-Local Module for the Detection of Small Objects**
+
+- intro: https://arxiv.org/abs/1811.12152
+
+**NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection**
+
+- arXiv: https://arxiv.org/abs/1812.00124
+
+**Learning RoI Transformer for Detecting Oriented Objects in Aerial Images**
+
+- arXiv: https://arxiv.org/abs/1812.00155
+
+**Integrated Object Detection and Tracking with Tracklet-Conditioned Detection**
+
+- intro: Microsoft Research Asia
+- arXiv: https://arxiv.org/abs/1811.11167
+
+**Deep Regionlets: Blended Representation and Deep Learning for Generic Object Detection**
+
+- arXiv: https://arxiv.org/abs/1811.11318
+
+ **Gradient Harmonized Single-stage Detector**
+
+- intro: AAAI 2019
+- arXiv: https://arxiv.org/abs/1811.05181
+
+**CFENet: Object Detection with Comprehensive Feature Enhancement Module**
+
+- intro: ACCV 2018
+- github: https://github.com/qijiezhao/CFENet
 
 **DeRPN: Taking a further step toward more general object detection**
 
