@@ -1,3 +1,15 @@
+2018-12-05 Update 2 papers
+
+**NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection**
+
+- intro: Google Could
+- arXiv: https://arxiv.org/abs/1812.00124
+
+**SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection**
+
+- intro: UC Berkeley
+- arXiv: https://arxiv.org/abs/1812.00929
+
 2018-12-04 Update 10 papers
 
 **Grid R-CNN**

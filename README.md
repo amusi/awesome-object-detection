@@ -878,6 +878,16 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2018
 
+**NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection**
+
+- intro: Google Could
+- arXiv: https://arxiv.org/abs/1812.00124
+
+**SPLAT: Semantic Pixel-Level Adaptation Transforms for Detection**
+
+- intro: UC Berkeley
+- arXiv: https://arxiv.org/abs/1812.00929
+
 **Grid R-CNN**
 
 - intro: SenseTime
