@@ -1,4 +1,9 @@
-2018-12-05 Update 2 papers
+2018-12-05 Update 3 papers
+
+**AutoFocus: Efficient Multi-Scale Inference**
+
+- intro: AutoFocus obtains an **mAP of 47.9%** (68.3% at 50% overlap) on the **COCO test-dev** set while processing **6.4 images per second on a Titan X (Pascal) GPU** 
+- arXiv: https://arxiv.org/abs/1812.01600
 
 **NOTE-RCNN: NOise Tolerant Ensemble RCNN for Semi-Supervised Object Detection**
 
