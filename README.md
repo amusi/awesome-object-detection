@@ -878,6 +878,10 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2018
 
+**Strong-Weak Distribution Alignment for Adaptive Object Detection**
+
+- arXiv: https://arxiv.org/abs/1812.04798
+
 **AutoFocus: Efficient Multi-Scale Inference**
 
 - intro: AutoFocus obtains an **mAP of 47.9%** (68.3% at 50% overlap) on the **COCO test-dev** set while processing **6.4 images per second on a Titan X (Pascal) GPU** 

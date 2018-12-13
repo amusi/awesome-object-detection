@@ -1,3 +1,9 @@
+2018-12-13 Update 1 paper
+
+**Strong-Weak Distribution Alignment for Adaptive Object Detection**
+
+- arXiv: https://arxiv.org/abs/1812.04798
+
 2018-12-05 Update 3 papers
 
 **AutoFocus: Efficient Multi-Scale Inference**
