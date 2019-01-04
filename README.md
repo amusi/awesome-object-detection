@@ -338,6 +338,7 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - paper:https://pjreddie.com/media/files/papers/YOLOv3.pdf
 - code: <https://pjreddie.com/darknet/yolo/>
 - github(Official):https://github.com/pjreddie/darknet
+- github:https://github.com/mystic123/tensorflow-yolo-v3
 - github:https://github.com/experiencor/keras-yolo3
 - github:https://github.com/qqwweee/keras-yolo3
 - github:https://github.com/marvis/pytorch-yolo3
@@ -345,6 +346,9 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github:https://github.com/ayooshkathuria/YOLO_v3_tutorial_from_scratch
 - github:https://github.com/eriklindernoren/PyTorch-YOLOv3
 - github:https://github.com/ultralytics/yolov3
+- github:https://github.com/BobLiu20/YOLOv3_PyTorch
+- github:https://github.com/andy-yun/pytorch-0.4-yolov3
+- github:https://github.com/DeNA/PyTorch_YOLOv3
 
 ## YOLT
 
@@ -877,6 +881,10 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - github: https://github.com/yihui-he/softer-NMS
 
 ## 2018
+
+**Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions**
+
+- arXiv: https://arxiv.org/abs/1812.11901
 
 **Strong-Weak Distribution Alignment for Adaptive Object Detection**
 

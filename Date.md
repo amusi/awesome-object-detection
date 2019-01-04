@@ -1,3 +1,9 @@
+2019-01-04 Update 1 paper
+
+**Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions**
+
+- arXiv: https://arxiv.org/abs/1812.11901
+
 2018-12-13 Update 1 paper
 
 **Strong-Weak Distribution Alignment for Adaptive Object Detection**
