@@ -38,6 +38,7 @@ This is a list of awesome articles about object detection. If you want to read t
 - Weakly Supervised Object Detection
 - Softer-NMS
 - 2018
+- 2019
 - Other
 
 Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/10/09/object-detection.html
@@ -879,6 +880,13 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 - intro: CMU & Face++
 - arXiv: https://arxiv.org/abs/1809.08545
 - github: https://github.com/yihui-he/softer-NMS
+
+## 2019
+
+**Scale-Aware Trident Networks for Object Detection**
+
+- intro: mAP of **48.4** on the COCO dataset
+- arXiv: https://arxiv.org/abs/1901.01892
 
 ## 2018
 

@@ -1,3 +1,10 @@
+2019-01-08 Update 1 paper
+
+**Scale-Aware Trident Networks for Object Detection**
+
+- intro: mAP of **48.4** on the COCO dataset
+- arXiv: https://arxiv.org/abs/1901.01892
+
 2019-01-04 Update 1 paper
 
 **Large-Scale Object Detection of Images from Network Cameras in Variable Ambient Lighting Conditions**
