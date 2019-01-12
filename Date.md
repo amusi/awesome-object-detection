@@ -1,3 +1,10 @@
+2019-01-12 Update 1 paper
+
+**Region Proposal by Guided Anchoring**
+
+- intro: CUHK - SenseTime Joint Lab
+- arXiv: https://arxiv.org/abs/1901.03278
+
 2019-01-08 Update 1 paper
 
 **Scale-Aware Trident Networks for Object Detection**

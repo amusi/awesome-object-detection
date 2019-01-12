@@ -883,6 +883,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2019
 
+**Region Proposal by Guided Anchoring**
+
+- intro: CUHK - SenseTime Joint Lab
+- arXiv: https://arxiv.org/abs/1901.03278
+
 **Scale-Aware Trident Networks for Object Detection**
 
 - intro: mAP of **48.4** on the COCO dataset
