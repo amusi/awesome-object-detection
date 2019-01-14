@@ -1,3 +1,10 @@
+2019-01-14 Update 1 paper
+
+**RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free**
+
+- arXiv: https://arxiv.org/abs/1901.03353
+- github: https://github.com/chengyangfu/retinamask
+
 2019-01-12 Update 1 paper
 
 **Region Proposal by Guided Anchoring**

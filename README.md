@@ -883,6 +883,11 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2019
 
+**RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free**
+
+- arXiv: https://arxiv.org/abs/1901.03353
+- github: https://github.com/chengyangfu/retinamask
+
 **Region Proposal by Guided Anchoring**
 
 - intro: CUHK - SenseTime Joint Lab
