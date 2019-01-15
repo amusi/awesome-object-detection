@@ -1,3 +1,9 @@
+2019-01-15 Update 1 paper
+
+**Learning Pairwise Relationship for Multi-object Detection in Crowded Scenes**
+
+- arXiv: https://arxiv.org/abs/1901.03796
+
 2019-01-14 Update 1 paper
 
 **RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free**

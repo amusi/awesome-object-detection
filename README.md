@@ -883,6 +883,10 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2019
 
+**Learning Pairwise Relationship for Multi-object Detection in Crowded Scenes**
+
+- arXiv: https://arxiv.org/abs/1901.03796
+
 **RetinaMask: Learning to predict masks improves state-of-the-art single-shot detection for free**
 
 - arXiv: https://arxiv.org/abs/1901.03353
