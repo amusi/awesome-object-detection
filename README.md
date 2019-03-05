@@ -887,6 +887,12 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2019
 
+**Feature Selective Anchor-Free Module for Single-Shot Object Detection**
+
+- intro: CVPR 2019
+
+- arXiv: https://arxiv.org/abs/1903.00621
+
 **Object Detection based on Region Decomposition and Assembly**
 
 - intro: AAAI 2019
