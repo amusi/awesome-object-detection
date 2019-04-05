@@ -1,3 +1,16 @@
+2019-04-05 Update 1 paper
+
+**Comparison Network for One-Shot Conditional Object Detection**
+
+- arXiv: https://arxiv.org/abs/1904.02317
+
+2019-03-05 Update 1 paper
+
+**Feature Selective Anchor-Free Module for Single-Shot Object Detection**
+
+- intro: CVPR 2019
+- arXiv: https://arxiv.org/abs/1903.00621
+
 2019-02-15 Update 3 detection toolbox
 
 - [Detectron(FAIR)](https://github.com/facebookresearch/Detectron): Detectron is Facebook AI Research's software system that implements state-of-the-art object detection algorithms, including [Mask R-CNN](https://arxiv.org/abs/1703.06870). It is written in Python and powered by the [Caffe2](https://github.com/caffe2/caffe2) deep learning framework.

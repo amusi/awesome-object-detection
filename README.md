@@ -831,7 +831,7 @@ https://github.com/Robert-JunWang/Pelee
 - github: https://github.com/CPFL/Autoware/tree/feature/cnn_lidar_detection
 
 
-## ZSD
+## ZSD（Zero-Shot Object Detection）
 
 **Zero-Shot Detection**
 
@@ -851,7 +851,11 @@ https://github.com/Robert-JunWang/Pelee
 
 - arxiv: https://arxiv.org/abs/1805.06157
 
-## OSD
+## OSD（One-Shot Object Detection）
+
+**Comparison Network for One-Shot Conditional Object Detection**
+
+- arXiv: https://arxiv.org/abs/1904.02317
 
 **One-Shot Object Detection**
 
