@@ -1,3 +1,10 @@
+2019-05-17 Update 1 paper
+
+**Object Detection in 20 Years: A Survey**
+
+- intro：This work has been submitted to the IEEE TPAMI for possible publication
+- arXiv：<https://arxiv.org/abs/1905.05055>
+
 2019-04-05 Update 1 paper
 
 **Comparison Network for One-Shot Conditional Object Detection**

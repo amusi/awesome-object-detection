@@ -45,6 +45,11 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 
 # Survey
 
+**Object Detection in 20 Years: A Survey**
+
+- intro：This work has been submitted to the IEEE TPAMI for possible publication
+- arXiv：<https://arxiv.org/abs/1905.05055>
+
 **《Recent Advances in Object Detection in the Age of Deep Convolutional Neural Networks》**
 
 - intro: awesome
