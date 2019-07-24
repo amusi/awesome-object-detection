@@ -1,3 +1,11 @@
+2019-07-24 Update 1 paper
+
+**A Survey of Deep Learning-based Object Detection**
+
+- intro：From Fast R-CNN to NAS-FPN
+
+- arXiv：<https://arxiv.org/abs/1907.09408>
+
 2019-05-17 Update 1 paper
 
 **Object Detection in 20 Years: A Survey**

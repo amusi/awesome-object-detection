@@ -45,6 +45,12 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 
 # Survey
 
+**A Survey of Deep Learning-based Object Detection**
+
+- intro：From Fast R-CNN to NAS-FPN
+
+- arXiv：<https://arxiv.org/abs/1907.09408>
+
 **Object Detection in 20 Years: A Survey**
 
 - intro：This work has been submitted to the IEEE TPAMI for possible publication
