@@ -1,3 +1,10 @@
+2019-08-14 Update 1 paper
+
+**Recent Advances in Deep Learning for Object Detection**
+
+- intro: From 2013 (OverFeat) to 2019 (DetNAS)
+- arXiv: <https://arxiv.org/abs/1908.03673>
+
 2019-07-24 Update 1 paper
 
 **A Survey of Deep Learning-based Object Detection**

@@ -45,6 +45,11 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 
 # Survey
 
+**Recent Advances in Deep Learning for Object Detection**
+
+- intro: From 2013 (OverFeat) to 2019 (DetNAS)
+- arXiv: <https://arxiv.org/abs/1908.03673>
+
 **A Survey of Deep Learning-based Object Detection**
 
 - intro：From Fast R-CNN to NAS-FPN
