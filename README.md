@@ -45,6 +45,11 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 
 # Survey
 
+**Imbalance Problems in Object Detection: A Review**
+
+- intro: under review at TPAMI
+- arXiv: <https://arxiv.org/abs/1909.00169>
+
 **Recent Advances in Deep Learning for Object Detection**
 
 - intro: From 2013 (OverFeat) to 2019 (DetNAS)
