@@ -891,6 +891,14 @@ RepMet: Representative-based metric learning for classification and one-shot obj
 
 ## 2019
 
+**Cascade RPN: Delving into High-Quality Region Proposal Network with Adaptive Convolution**
+
+- intro: NeurIPS 2019 spotlight, SoTA RPN in COCO (71.7 AR1000)
+
+- arXiv: https://arxiv.org/abs/1909.06720
+
+- github: https://github.com/thangvubk/Cascade-RPN
+
 **Feature Selective Anchor-Free Module for Single-Shot Object Detection**
 
 - intro: CVPR 2019
