@@ -390,7 +390,23 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github:https://github.com/nanmi/YOLOX-deepstream
 - github(ONNXRuntime C++):https://github.com/DefTruth/lite.ai/blob/main/ort/cv/yolox.cpp
 - github:https://github.com/RapidAI/YOLO2COCO
-- github(OpenCV-DNN C++):https:https://github.com/hpc203/yolox-opencv-dnn
+- github(OpenCV-DNN C++):https:https://github.com/hpc203/yolox-opencv-dnn  
+
+
+## YOLOR  
+
+**YOLOR: You Only Learn One Representation: Unified Network for Multiple Tasks**  
+
+- arxiv:https://arxiv.org/abs/2105.04206
+- paper:https://arxiv.org/abs/2105.04206.pdf
+- code: <https://github.com/WongKinYiu/yolor>  
+- github(Official):https://github.com/WongKinYiu/yolor
+- github(TensorRT C++):https://github.com/ttanzhiqiang/onnx_tensorrt_project
+- github:https://github.com/WongKinYiu/yolor/tree/paper
+- github:https://github.com/WongKinYiu/yolor/tree/mmdet
+- github:https://github.com/DataXujing/YOLOR-
+- github(ONNXRuntime C++):https://github.com/DefTruth/lite.ai/blob/main/ort/cv/yolor.cpp
+- course:https://augmentedstartups.mykajabi.com/YOLOR-Object-Detection-Course
 
 
 ## YOLT
