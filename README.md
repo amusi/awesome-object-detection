@@ -13,7 +13,10 @@ This is a list of awesome articles about object detection. If you want to read t
 - SPP-Net
 - YOLO
 - YOLOv2
-- YOLOv3
+- YOLOv3  
+- YOLOX  
+- YOLOR  
+- Scaled-YOLOv4    
 - YOLT
 - SSD
 - DSSD
@@ -370,7 +373,25 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github:https://github.com/ultralytics/yolov3
 - github:https://github.com/BobLiu20/YOLOv3_PyTorch
 - github:https://github.com/andy-yun/pytorch-0.4-yolov3
-- github:https://github.com/DeNA/PyTorch_YOLOv3
+- github:https://github.com/DeNA/PyTorch_YOLOv3  
+
+## YOLOX  
+
+**YOLOX: Exceeding YOLO Series in 2021**  
+
+- arxiv:https://arxiv.org/abs/2107.08430
+- paper:https://arxiv.org/abs/2107.08430.pdf
+- documentation:https://yolox.readthedocs.io/en/latest/
+- code: <https://github.com/Megvii-BaseDetection/YOLOX>  
+- github(Official):https://github.com/Megvii-BaseDetection/YOLOX
+- github(NCNN C++):https://github.com/FeiGeChuanShu/ncnn-android-yolox
+- github(Tengine C++):https://github.com/OAID/Tengine/blob/tengine-lite/examples/tm_yolox.cpp
+- github(ROS):https://github.com/Ar-Ray-code/YOLOX-ROS
+- github:https://github.com/nanmi/YOLOX-deepstream
+- github(ONNXRuntime C++):https://github.com/DefTruth/lite.ai/blob/main/ort/cv/yolox.cpp
+- github:https://github.com/RapidAI/YOLO2COCO
+- github(OpenCV-DNN C++):https:https://github.com/hpc203/yolox-opencv-dnn
+
 
 ## YOLT
 
