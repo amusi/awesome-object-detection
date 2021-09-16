@@ -13,7 +13,10 @@ This is a list of awesome articles about object detection. If you want to read t
 - SPP-Net
 - YOLO
 - YOLOv2
-- YOLOv3
+- YOLOv3  
+- YOLOX  
+- YOLOR  
+- Scaled-YOLOv4    
 - YOLT
 - SSD
 - DSSD
@@ -370,7 +373,54 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github:https://github.com/ultralytics/yolov3
 - github:https://github.com/BobLiu20/YOLOv3_PyTorch
 - github:https://github.com/andy-yun/pytorch-0.4-yolov3
-- github:https://github.com/DeNA/PyTorch_YOLOv3
+- github:https://github.com/DeNA/PyTorch_YOLOv3  
+
+## YOLOX  
+
+**YOLOX: Exceeding YOLO Series in 2021**  
+
+- arxiv:https://arxiv.org/abs/2107.08430
+- paper:https://arxiv.org/abs/2107.08430.pdf
+- documentation:https://yolox.readthedocs.io/en/latest/
+- code: <https://github.com/Megvii-BaseDetection/YOLOX>  
+- github(Official):https://github.com/Megvii-BaseDetection/YOLOX
+- github(NCNN C++):https://github.com/FeiGeChuanShu/ncnn-android-yolox
+- github(Tengine C++):https://github.com/OAID/Tengine/blob/tengine-lite/examples/tm_yolox.cpp
+- github(ROS):https://github.com/Ar-Ray-code/YOLOX-ROS
+- github:https://github.com/nanmi/YOLOX-deepstream
+- github(ONNXRuntime C++):https://github.com/DefTruth/lite.ai/blob/main/ort/cv/yolox.cpp
+- github:https://github.com/RapidAI/YOLO2COCO
+- github(OpenCV-DNN C++):https:https://github.com/hpc203/yolox-opencv-dnn  
+
+
+## YOLOR  
+
+**YOLOR: You Only Learn One Representation: Unified Network for Multiple Tasks**  
+
+- arxiv:https://arxiv.org/abs/2105.04206
+- paper:https://arxiv.org/abs/2105.04206.pdf
+- code: <https://github.com/WongKinYiu/yolor>  
+- github(Official):https://github.com/WongKinYiu/yolor
+- github(TensorRT C++):https://github.com/ttanzhiqiang/onnx_tensorrt_project
+- github:https://github.com/WongKinYiu/yolor/tree/paper
+- github:https://github.com/WongKinYiu/yolor/tree/mmdet
+- github:https://github.com/DataXujing/YOLOR-
+- github(ONNXRuntime C++):https://github.com/DefTruth/lite.ai/blob/main/ort/cv/yolor.cpp
+- course:https://augmentedstartups.mykajabi.com/YOLOR-Object-Detection-Course
+
+## Scaled-YOLOv4  
+
+**Scaled-YOLOv4: Scaling Cross Stage Partial Network**  
+
+- arxiv:https://arxiv.org/abs/2011.08036
+- paper:https://arxiv.org/abs/2011.08036.pdf
+- code: <https://github.com/WongKinYiu/ScaledYOLOv4>  
+- github(Official):https://github.com/WongKinYiu/ScaledYOLOv4
+- github(TensorRT C++):https://github.com/tjuskyzhang/Scaled-YOLOv4-TensorRT
+- github:https:https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-tiny
+- github:https:https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-csp
+- github:https://github.com/wangermeng2021/Scaled-YOLOv4-tensorflow2
+- github(ONNXRuntime C++):https://github.com/DefTruth/lite.ai/blob/main/ort/cv/scaled_yolov4.cpp
 
 ## YOLT
 
