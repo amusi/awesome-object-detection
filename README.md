@@ -408,6 +408,19 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - github(ONNXRuntime C++):https://github.com/DefTruth/lite.ai/blob/main/ort/cv/yolor.cpp
 - course:https://augmentedstartups.mykajabi.com/YOLOR-Object-Detection-Course
 
+## Scaled-YOLOv4  
+
+**Scaled-YOLOv4: Scaling Cross Stage Partial Network**  
+
+- arxiv:https://arxiv.org/abs/2011.08036
+- paper:https://arxiv.org/abs/2011.08036.pdf
+- code: <https://github.com/WongKinYiu/ScaledYOLOv4>  
+- github(Official):https://github.com/WongKinYiu/ScaledYOLOv4
+- github(TensorRT C++):https://github.com/tjuskyzhang/Scaled-YOLOv4-TensorRT
+- github:https:https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-tiny
+- github:https:https://github.com/WongKinYiu/ScaledYOLOv4/tree/yolov4-csp
+- github:https://github.com/wangermeng2021/Scaled-YOLOv4-tensorflow2
+- github(ONNXRuntime C++):https://github.com/DefTruth/lite.ai/blob/main/ort/cv/scaled_yolov4.cpp
 
 ## YOLT
 
