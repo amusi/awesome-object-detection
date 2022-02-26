@@ -295,6 +295,11 @@ Based on handong1587's github: https://handong1587.github.io/deep_learning/2015/
 - blog: <https://sriraghu.com/2017/07/12/computer-vision-in-ios-object-detection/>
 - github:<https://github.com/r4ghu/iOS-CoreML-Yolo>
 
+**Awesome-YOLO**
+
+- intro: 🔥🔥🔥 A collection of some awesome open-source YOLO series object detection projects. 
+- github: <https://github.com/dotnet-rs-py/awesome-yolo>
+
 ## YOLOv2
 
 **YOLO9000: Better, Faster, Stronger**
